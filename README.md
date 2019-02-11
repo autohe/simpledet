@@ -1,4 +1,4 @@
-Only a smal change for test and learning git. Bin He, Feb 11, 2019
+Only a small change for test and learning git. Bin He, Feb 11, 2019
 
 ## SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition
 ### Major Features
